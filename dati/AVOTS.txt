@@ -1,0 +1,5 @@
+Datu kopas nosaukums: Palmer Penguins
+Avots: https://github.com/allisonhorst/palmerpenguins
+CSV fails: https://github.com/allisonhorst/palmerpenguins/blob/main/inst/extdata/penguins.csv
+Lejupielades datums: [14.11.2026]
+
